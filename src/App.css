@@ -74,6 +74,7 @@ nav ul li a:hover {
 .header {
   background-color: #495e57;
   padding: 40px 0;
+  height: 80vh;
 }
 
 .header section {
