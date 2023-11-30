@@ -20,7 +20,7 @@ This project is a part of the Meta Coursera Capstone, showcasing the implementat
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/little-lemon-capstone.git
+   git clone https://github.com/Oxygeeeen/little-lemon-capstone.git
    ```
 
 2. Navigate to the project directory:
