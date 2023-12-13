@@ -1,10 +1,6 @@
-# Little Lemon Capstone Project
+# Overview
 
-Welcome to the Little Lemon Capstone Project, a Meta Coursera Capstone Project built with React, CSS, SWR, React Router DOM, and @testing-library/react.
-
-## Overview
-
-This project is a part of the Meta Coursera Capstone, showcasing the implementation of a web application using modern frontend technologies. The application focuses on [briefly describe the main purpose or features of your project].
+This project is a part of the Meta Coursera Capstone, showcasing the implementation of a web application using modern frontend technologies like React, CSS3, SWR, React Router DOM, and @testing-library/react.
 
 ## Technologies Used
 
